@@ -1,5 +1,7 @@
 # dataconf
 
+> NOW INCLUDED AS PART OF https://github.com/lekoala/liveinit
+
 A lightweight, json5 like, format for storing configuration object in a data attribute.
 
 It features:
